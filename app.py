@@ -264,3 +264,4 @@ else:
 
 st.divider()
 st.caption("Fake News Detection System | Introduction to Data Science Project")
+                
